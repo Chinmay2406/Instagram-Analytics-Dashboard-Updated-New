@@ -91,9 +91,4 @@ If you want to contribute to the development of this project:
 ## **License**
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## **Acknowledgments**
-- Special thanks to the open-source community for providing resources and libraries that made this project possible.
 
----
-
-This README file outlines the key features, setup instructions, and contribution guidelines for your Instagram Analytics Dashboard. Feel free to adjust the information as needed!
