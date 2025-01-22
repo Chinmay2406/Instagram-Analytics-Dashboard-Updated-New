@@ -8,6 +8,7 @@ Here’s a sample README file for your project hosted at **https://chinmayinsta.
 
 ## **Overview**
 This project is an **Instagram Analytics Dashboard** that provides basic insights into Instagram accounts, even without access to Meta's API. It helps users analyze their Instagram data, track engagement metrics, and plan future content using a **Content Calendar**. Additionally, the project features an **Assistant Bot** that answers simple to complex questions about the account’s performance and provides **educational resources** on Instagram marketing and growth.
+THE project is in development right now.
 
 ## **Live Demo**
 You can access the live version of the project here:  
